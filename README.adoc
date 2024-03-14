@@ -30,7 +30,7 @@ started``] guide. Documentation is published in {docs}/htmlsingle/[HTML],
 formats.
 
 Here is a quick teaser of a complete Spring Boot application in Java:
-
+test
 [source,java,indent=0]
 ----
 	import org.springframework.boot.*;
