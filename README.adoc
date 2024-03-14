@@ -19,7 +19,7 @@ diverge from the defaults
 (e.g. embedded servers, security, metrics, health checks, externalized configuration)
 * Absolutely no code generation and no requirement for XML configuration
 
-
+test
 
 == Installation and Getting Started
 The {docs}/htmlsingle/[reference documentation] includes detailed
